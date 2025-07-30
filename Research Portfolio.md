@@ -10,6 +10,8 @@ Past Projects Portfolio:
 
 <img src="https://github.com/user-attachments/assets/87568276-a7f9-4c05-b411-5f0fc3cd1556" alt="Alt Text" width="500" height="300">
 
+(image from Astrobites)
+
 
 2. Dark Matter Summer Research (Dr. Ethan O. Nadler, Sandip Roy (postdoc), Roxanne Lai, Stephen Canino) - Summer 2025
 
@@ -20,3 +22,5 @@ Past Projects Portfolio:
 → Goal is to find a correlation between subhalo counts and mass accretion history, which might help constrain the mechanisms and rates which dark matter subhalos can be created within a host halo
 
 <img src="https://github.com/user-attachments/assets/6e9ce017-f660-4dfa-a7c0-c5453fad90e1" alt="Alt Text" width="500" height="300">
+
+(image from AAS Nova)
