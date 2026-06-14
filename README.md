@@ -3,4 +3,5 @@ This repository contains a detailed history of all work (past & present) with Dr
 Jupyter notebooks entitled "DM SUBHALOS WORK" refer to iterations of work done during the summer of 2025, while the "DM tinkering" Jupyter notebooks usually refer to work done intermittently during the 2025-2026 school year. All work thus far has been using Dr. Nadler's Symphony suite of CDM-only cosmological simulations.
 
 Symphony: [https://web.stanford.edu/group/gfc/symphony/build/html/simulations.html]
+
 Symphony paper: [https://arxiv.org/pdf/2209.02675]
