@@ -1,2 +1,6 @@
 This repository contains current work with the Nadler lab at UCSD for the summer of 2026! 
-Finishing up the project from last summer: investigating how the subhalo population behaves as a function of redshift, and formulating effective frameworks to model/describe this. 
+Finishing up the project from last summer: trying to characterize how substructure in dark matter halos behaves across cosmic time and across different halo mass scales.
+
+Learning from the shortcomings of last summer, this repository contains a greater variety of files than [nadler-lab-summer-2025-work](https://github.com/vehxii/dm_correlation_work_nadler_group/tree/nadler-lab-summer-2025-work). "DM Tinkering" Jupyter Notebooks contain the code for creating all the plots (saved as .PNG files). Most Notebooks include an upload date and a short title describing the major changes in that version of the code.
+
+Updates will be added ASAP to the notebook as they come out!!
